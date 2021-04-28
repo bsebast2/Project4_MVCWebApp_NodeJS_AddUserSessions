@@ -1,0 +1,341 @@
+[{
+  "_id": {
+    "$oid": "608384556f456647986a508f"
+  },
+  "name": "We Will Rock You",
+  "topic": "Drums",
+  "details": "A popular song by Queen , this classic tune is a very catchy rhythm. ",
+  "date": "2021-04-24",
+  "start_time": "22:35",
+  "end_time": "23:35",
+  "host_name": "Tom Walsh",
+  "image": "https://i.pinimg.com/originals/f1/4b/da/f14bdab2fe880470e84c936d5257c8cd.jpg",
+  "createdAt": "2021-04-23",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T03:08:19.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60839759d1accc28a43056a9"
+  },
+  "name": "Rocket Man",
+  "topic": "Piano",
+  "details": "A new song, this is supposed to be made by Elton John",
+  "date": "2021-04-23",
+  "start_time": "12:56",
+  "end_time": "13:56",
+  "host_name": "Tom Walsh",
+  "image": "https://spockandchristine.com/wp-content/uploads/2018/10/Elton-John.jpg",
+  "createdAt": "2021-04-23",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608397bed1accc28a43056aa"
+  },
+  "name": "Edelweiss",
+  "topic": "Piano",
+  "details": "This is another classic song. Very interesting music language.",
+  "date": "2021-04-23",
+  "start_time": "23:02",
+  "end_time": "12:59",
+  "host_name": "Tom Walsh",
+  "image": "https://www.wikihow.com/images/e/e1/Play-%22Happy-Birthday%22-on-the-Piano-Step-17.jpg",
+  "createdAt": "2021-04-23",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083981ed1accc28a43056ab"
+  },
+  "name": "Twinkle Twinkle Little Star",
+  "topic": "Piano",
+  "details": "This piece is very intersting too. It is a very popular tune that is intantly recognisable.",
+  "date": "2021-04-24",
+  "start_time": "02:04",
+  "end_time": "03:05",
+  "host_name": "Tom Walsh",
+  "image": "https://www.wikihow.com/images/e/e1/Play-%22Happy-Birthday%22-on-the-Piano-Step-17.jpg",
+  "createdAt": "2021-04-14",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083987ad1accc28a43056ac"
+  },
+  "name": "Back in Black",
+  "topic": "Guitar",
+  "details": "This is a hiphop track.",
+  "date": "2021-04-29",
+  "start_time": "17:02",
+  "end_time": "18:02",
+  "host_name": "Tom Walsh",
+  "image": "https://www.wikihow.com/images/e/e1/Play-%22Happy-Birthday%22-on-the-Piano-Step-17.jpg",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60839c19d1accc28a43056ae"
+  },
+  "name": "Yellow",
+  "topic": "Guitar",
+  "details": "This is a famous song by Coldplay",
+  "date": "2021-04-24",
+  "start_time": "02:21",
+  "end_time": "04:22",
+  "host_name": "Tom Walsh",
+  "image": "https://1dvq991ol66r37j0122osl0r-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/best-electric-guitar-players-of-all-time-1024x823.jpg",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60839c57d1accc28a43056af"
+  },
+  "name": "Purple Rain",
+  "topic": "Guitar",
+  "details": "This is a famous song , sung by Prince. ",
+  "date": "2021-04-28",
+  "start_time": "17:24",
+  "end_time": "18:24",
+  "host_name": "Tom Walsh",
+  "image": "https://i.ytimg.com/vi/Gbmt7IpINBc/maxresdefault.jpg",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60839ca6d1accc28a43056b0"
+  },
+  "name": "Stairway To Heaven ",
+  "topic": "Drums",
+  "details": "This song is a standard song for classic rock enthusiasts",
+  "date": "2021-04-24",
+  "start_time": "04:25",
+  "end_time": "05:26",
+  "host_name": "Tom Walsh",
+  "image": "https://www.yamaha.com/en/musical_instrument_guide/common/images/drums/play_p03_01.jpg",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60839ce7d1accc28a43056b2"
+  },
+  "name": "Autumn Leaves",
+  "topic": "Drums ",
+  "details": "This is a jazz standard tune.  ",
+  "date": "2021-04-30",
+  "start_time": "03:25",
+  "end_time": "04:26",
+  "host_name": "Tom Walsh",
+  "image": "https://s-media-cache-ak0.pinimg.com/originals/fa/17/ef/fa17eff1f2dbadfb448006155ea651cf.jpg",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60839d2fd1accc28a43056b3"
+  },
+  "name": "Pretender",
+  "topic": "Drums",
+  "details": "This is a new song by Foo Fighters",
+  "date": "2021-05-07",
+  "start_time": "14:26",
+  "end_time": "16:26",
+  "host_name": "Tom Walsh",
+  "image": "https://th.bing.com/th/id/R83c4a62187141a75920dfe27b1a6a324?rik=4BWRVdkfMYzFKQ&riu=http%3a%2f%2ftheparadiddler.com%2fwp-content%2fuploads%2f2011%2f01%2fjlc.jpg&ehk=Tn%2fHsQvckjObd7jnT%2fHyOJudxVgy5cSPX1EvRPBiF8o%3d&risl=&pid=ImgRaw",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "608382c66f456647986a508e"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083a80230aa7543d0357357"
+  },
+  "name": "O Bla Di!",
+  "topic": "Piano",
+  "details": "This is a song by the Beatles",
+  "date": "2021-04-24",
+  "start_time": "17:12",
+  "end_time": "18:13",
+  "host_name": "Bentic Sebastian",
+  "image": "https://th.bing.com/th/id/OIP.zk36GCTm1Nv8_VFCMKGepgHaEK?pid=ImgDet&rs=1",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "606940a6d098234ff021f7e4"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083a93e30aa7543d0357358"
+  },
+  "name": "We are the Champions ",
+  "topic": "Guitar",
+  "details": "This is a famous song by Queen!",
+  "date": "2021-05-06",
+  "start_time": "04:17",
+  "end_time": "06:19",
+  "host_name": "Bentic Sebastian",
+  "image": "https://th.bing.com/th/id/OIP.qpRzy3zego1VR1JBL5b6tgHaEo?pid=ImgDet&rs=1",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "606940a6d098234ff021f7e4"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083aa8a30aa7543d0357359"
+  },
+  "name": "Beautiful Day",
+  "topic": "Drums",
+  "details": "Song by U2, a very popular band.",
+  "date": "2021-05-08",
+  "start_time": "16:22",
+  "end_time": "17:24",
+  "host_name": "Bentic Sebastian",
+  "image": "https://th.bing.com/th/id/OIP.g8SmIYcUGnWSDf4nsaajJAHaEH?w=288&h=180&c=7&o=5&pid=1.7",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "606940a6d098234ff021f7e4"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083ace330aa7543d035735c"
+  },
+  "name": "Hate Song",
+  "topic": "Guitar",
+  "details": "Random song",
+  "date": "2021-04-21",
+  "start_time": "04:33",
+  "end_time": "06:34",
+  "host_name": "Bentic Sebastian",
+  "image": "https://th.bing.com/th/id/OIP.tLS-jT3SR-5pfRIUlvux3QHaPC?w=172&h=350&c=7&o=5&pid=1.7",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "606940a6d098234ff021f7e4"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083ad4b30aa7543d035735d"
+  },
+  "name": "Guilty ",
+  "topic": "Piano",
+  "details": "Some other song I am making up",
+  "date": "2021-04-21",
+  "start_time": "05:36",
+  "end_time": "05:36",
+  "host_name": "Bentic Sebastian",
+  "image": "https://th.bing.com/th/id/OIP.xLtDOQIz3IhrPyLUcnxfLwAAAA?pid=ImgDet&w=159&h=212&c=7",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "606940a6d098234ff021f7e4"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083ad8e30aa7543d035735e"
+  },
+  "name": "Shake it Off",
+  "topic": "Drums",
+  "details": "Song by Taylor Swift",
+  "date": "2021-05-08",
+  "start_time": "16:35",
+  "end_time": "18:37",
+  "host_name": "Bentic Sebastian",
+  "image": "https://th.bing.com/th/id/OIP.mysJmcSC3GpuHAKzjCcEJwHaE6?w=249&h=180&c=7&o=5&pid=1.7",
+  "createdAt": "2021-04-29",
+  "author": {
+    "$oid": "606940a6d098234ff021f7e4"
+  },
+  "updatedAt": {
+    "$date": "2021-04-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6083aecf30aa7543d0357360"
+  },
+  "name": "Somewhere Over The Rainbow",
+  "topic": "Guitar",
+  "details": "A famous song, with a cheerful atmosphere",
+  "date": "2021-05-06",
+  "start_time": "15:39",
+  "end_time": "18:43",
+  "host_name": "Bentic Sebastian",
+  "image": "https://th.bing.com/th/id/OIP.mwN3VhaH4R3_5XIt0nnIngHaNM?w=182&h=324&c=7&o=5&pid=1.7",
+  "createdAt": "2021-04-24",
+  "author": {
+    "$oid": "606940a6d098234ff021f7e4"
+  },
+  "updatedAt": {
+    "$date": "2021-04-24T00:00:00Z"
+  },
+  "__v": 0
+}]
